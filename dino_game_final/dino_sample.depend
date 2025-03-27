@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1742301882 source:d:\code\c++cb\dino_sample\main.cpp
+	"game.h"
+	"input.h"
+
+1742386773 source:d:\code\c++cb\dino_sample\object.cpp
+	"object.h"
+	"game.h"
+
+1742386773 d:\code\c++cb\dino_sample\object.h
+
+1742393886 d:\code\c++cb\dino_sample\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"object.h"
+	<string>
+
+1742286070 d:\code\c++cb\dino_sample\input.h
+
+1742386934 source:d:\code\c++cb\dino_sample\graphic.cpp
+	"graphic.h"
+	"game.h"
+	<iostream>
+
+1742301734 d:\code\c++cb\dino_sample\graphic.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"object.h"
+
+1742386773 source:d:\code\c++cb\dino_sample\input.cpp
+	"input.h"
+	"game.h"
+	"object.h"
+	<SDL.h>
+
+1742386787 source:d:\code\c++cb\dino_sample\game.cpp
+	"game.h"
+	"graphic.h"
+	"input.h"
+	"object.h"
+	<iostream>
+
+1743044612 source:d:\code\c++cb\dino_game_final\game.cpp
+	"game.h"
+	"graphic.h"
+	"input.h"
+	"object.h"
+	"audio.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1743042030 d:\code\c++cb\dino_game_final\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"object.h"
+	<string>
+	<fstream>
+
+1742831467 d:\code\c++cb\dino_game_final\object.h
+	<SDL.h>
+
+1742788159 d:\code\c++cb\dino_game_final\graphic.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"object.h"
+	<vector>
+
+1742913251 d:\code\c++cb\dino_game_final\input.h
+
+1742911164 source:d:\code\c++cb\dino_game_final\graphic.cpp
+	"graphic.h"
+	"game.h"
+	"object.h"
+	<iostream>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<vector>
+
+1743044577 source:d:\code\c++cb\dino_game_final\input.cpp
+	"input.h"
+	"game.h"
+	"object.h"
+	"graphic.h"
+	"audio.h"
+	<SDL.h>
+
+1743036872 source:d:\code\c++cb\dino_game_final\main.cpp
+	"game.h"
+	"input.h"
+
+1742911519 source:d:\code\c++cb\dino_game_final\object.cpp
+	"object.h"
+	"game.h"
+	"graphic.h"
+	<cstdlib>
+
+1743045795 source:d:\code\c++cb\dino_game_final\audio.cpp
+	"audio.h"
+	<iostream>
+
+1743044577 d:\code\c++cb\dino_game_final\audio.h
+	<SDL_mixer.h>
+
+1738962281 d:\code\sdl2\sdl2_mixer-2.8.1\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
